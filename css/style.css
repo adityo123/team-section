@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: auto;
+    padding: 20px;
+}
+.box{
+    width: 25%;
+    float: left;
+    background-color: coral;
+    border: 2px solid black;
+}
+.box img{
+    width: 100%;
+}
+
+
+
+    
